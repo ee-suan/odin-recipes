@@ -1,0 +1,15 @@
+*{
+    background-color: bisque;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+h1, h4{
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+a{
+    color: purple;
+    font-size: 25px;
